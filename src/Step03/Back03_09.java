@@ -1,5 +1,5 @@
 /**
-* 2021. 02. 05
+* 2021. 02. 07
 * Creater : Gunhee Choi
 * Problem Number : 2438
 * Title : 별 찍기 - 1
